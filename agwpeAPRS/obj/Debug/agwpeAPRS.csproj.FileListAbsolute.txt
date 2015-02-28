@@ -1,13 +1,1 @@
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\bin\Debug\agwpeAPRS.exe.config
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\bin\Debug\agwpeAPRS.exe
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\bin\Debug\agwpeAPRS.pdb
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\bin\Debug\AgwpePort.dll
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.agwpeAPRS.resources
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.Properties.Resources.resources
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.csproj.GenerateResource.Cache
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.exe
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.pdb
-C:\Projects\APRS\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.csprojResolveAssemblyReference.cache
 C:\Projects\github\agwpeAPRS\agwpeAPRS\bin\Debug\agwpeAPRS.exe.config
-C:\Projects\github\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.exe
-C:\Projects\github\agwpeAPRS\agwpeAPRS\obj\Debug\agwpeAPRS.pdb
