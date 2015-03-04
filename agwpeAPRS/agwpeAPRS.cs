@@ -96,6 +96,7 @@ namespace agwpeAPRS
                 // Scroll down, if needed, so we can see the new text.
                 rtbMessages.ScrollToCaret();
             }));
+           
         }
 
         private string convertCoordinate(byte[] data)
@@ -210,7 +211,7 @@ namespace agwpeAPRS
             try
             {
                 // Open a connection to AGWPE.
-                agwpePort1.Open(Convert.ToByte(0), "localhost", 8000);
+                agwpePort1.Open(Convert.ToByte(0), hostTextBox.Text, Convert.ToInt32(portTextBox.Text));
                 // Register a callsign that we can accept incoming ax.25 connection requests for.
                 agwpePort1.RegisterCallSign("KN0MAP");
                 // Request the AGWPE major and minor version numbers.
